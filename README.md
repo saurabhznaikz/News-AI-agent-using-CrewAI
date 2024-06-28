@@ -2,7 +2,7 @@
 
 This system helps user to get user latest news based on user input. This is a multi-agent system created by the crewai. Output is given in an MD file formate
 
-![OUTPUT file](https://github.com/saurabhznaikz/SmartResumeMatcher-Enhancing-Job-Applications-with-AI-Driven-Analysis/blob/main/resume%20matcher.gif)
+![OUTPUT file](https://github.com/saurabhznaikz/News-AI-agent-using-CrewAI/blob/main/new-blog-post.md)
 
 ## Installation
 Create virtual environment for python 3.10
